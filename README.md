@@ -1,4 +1,4 @@
-# Cypress / Validando elemento MAPS - AVALIAÇÃO VR
+# Selenium / Validando elemento MAPS - AVALIAÇÃO VR
 # Explicando cada funcionalidade com comentários 
 
 1- Passo de um clone no projeto
